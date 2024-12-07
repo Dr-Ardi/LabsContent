@@ -46,12 +46,12 @@
             "link": "https://cytoscape.org/"
         },
         {
-            "name": "Android Studio",
+            "name": "AndroidStudio",
             "image": "https://imgs.search.brave.com/EuZUZ5Y0ZTr-hanJUbdTgr-QzPNyrDD_JL1LU5V9YTQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9j/L2MxL0FuZHJvaWRf/U3R1ZGlvX2ljb25f/KDIwMjMpLnN2Zw",
             "link": "https://developer.android.com/studio"
         },
         {
-            "name": "Spring Boot",
+            "name": "SpringBoot",
             "image": "https://imgs.search.brave.com/PDsYeYpj9PoR7JEEwYnPSpBaWH5G9tPRYajJt4C-Yw4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy83/Lzc5L1NwcmluZ19C/b290LnN2Zw",
             "link": "https://spring.io/projects/spring-boot"
         },
@@ -61,7 +61,7 @@
             "link": "https://www.java.com/en/"
         },
         {
-            "name": "C Language",
+            "name": "C Lang",
             "image": "https://imgs.search.brave.com/hlJLlUrLwzhpgfcIGN6vE9eNlJsA4TAPtoEGQNUY0e4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy8x/LzE4L0NfUHJvZ3Jh/bW1pbmdfTGFuZ3Vh/Z2Uuc3Zn",
             "link": "https://www.learn-c.org/"
         },
@@ -76,7 +76,7 @@
             "link": "https://www.linux.org/"
         },
         {
-            "name": "R language",
+            "name": "R Lang",
             "image": "https://imgs.search.brave.com/HJv3O-tGcKP7oD_pT87EhZSjY70ONMmrd7Pak4q5uJ4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zZWVr/bG9nby5jb20vaW1h/Z2VzL1Ivci1wcm9q/ZWN0LWxvZ28tQTEw/MUIxMTI3MC1zZWVr/bG9nby5jb20ucG5n",
             "link": "https://www.r-project.org/"
         }
